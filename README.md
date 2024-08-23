@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewHData, but you can call me Andrew.
 - 👀 I’m interested in learning data analytics & data engineering. 
-- 🌱 I’m currently learning T-SQL and Python.
+- 🌱 I’m currently learning more T-SQL and Python.
 - 💞️ I’m looking to collaborate on any data analytics or data engineering projects.
 - 📫 How to reach me: www.linkedin.com/in/andrew-ho-
 - ⚡ Fun fact: I used to own and operate a cafe! ☕
